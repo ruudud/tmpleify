@@ -1,0 +1,19 @@
+{
+  "name": "tmplify",
+  "version": "0.0.1",
+  "description": "Browserify transform for tmpl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "through2": "^2.0.0"
+  },
+  "keywords": [
+    "template",
+    "templates",
+    "templating"
+  ],
+  "author": "Pål Ruud",
+  "license": "MIT"
+}
