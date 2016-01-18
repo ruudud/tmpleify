@@ -1,7 +1,7 @@
 {
-  "name": "tmplify",
+  "name": "tmpleify",
   "version": "0.0.1",
-  "description": "Browserify transform for tmpl",
+  "description": "Browserify transform for tmple",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "browserify",
     "transform",
     "template",
-    "tmpl"
+    "tmple"
   ],
   "contributors": [
       {

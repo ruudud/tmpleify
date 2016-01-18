@@ -1,12 +1,12 @@
-# tmplify
-Browserify transform for [tmpl](https://github.com/ruudud/tmpl) templates.
+# tmpleify
+Browserify transform for [tmple](https://github.com/ruudud/tmple) templates.
 
 
 ## Install and usage
 ```
-> npm install --save tmpl
-> npm install --save-dev tmplify
-> browserify -t tmplify mytemplate.tjs > bundle.js
+> npm install --save tmple
+> npm install --save-dev tmpleify
+> browserify -t tmpleify mytemplate.tjs > bundle.js
 ```
 
 Example use of template:

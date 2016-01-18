@@ -12,7 +12,7 @@ module.exports = function tjsify(file, options) {
   }
 
   return through(function(buf, enc, next) {
-    var compiled = "var t = require('tmpl');\n";
+    var compiled = "var t = require('tmple');\n";
     compiled += "module.exports = new t(";
     compiled += JSON.stringify(buf.toString('utf-8'));
     compiled += ");";
