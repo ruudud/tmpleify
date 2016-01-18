@@ -10,10 +10,16 @@
     "through2": "^2.0.0"
   },
   "keywords": [
+    "browserify",
+    "transform",
     "template",
-    "templates",
-    "templating"
+    "tmpl"
   ],
-  "author": "Pål Ruud",
+  "contributors": [
+      {
+          "name": "Pål Ruud",
+          "url": "https://ruudud.github.io"
+      }
+  ],
   "license": "MIT"
 }
